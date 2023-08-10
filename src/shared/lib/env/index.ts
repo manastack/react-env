@@ -1,4 +1,5 @@
 export { EnvContext } from './env.context'
+export { EnvProvider } from './env.provider'
 export { useEnvContext } from './use.env.context'
 export { withEnvProvider } from './with.env.provider'
 export type { EnvType, OwnEnvProviderProps } from './env.provider'
